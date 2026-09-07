@@ -1,3 +1,4 @@
 slug,provider,offer,actionButtons,chain,requiresLogin,hasCaptcha,price,starred,requiredMainnetBalance,dripLimitAmount,dripLimitPeriod,additionalNotes,tag
 beryx-faucet,Beryx,,"[""[Get tokens](https://beryx.io/faucet)"",""[Docs](https://docs.filecoin.io/networks/calibration)""]",calibnet,FALSE,TRUE,$0,FALSE,,5 tFIL,12h,,
 chainsafe-faucet,,!offer:chainsafe-faucet,,calibnet,,,,,,,,,
+thirdweb-faucet,,!offer:thirdweb-faucet,"[""[Faucet](https://thirdweb.com/filecoin---calibration-testnet)""]",calibnet,,,,,,0.01 tFIL,24h,,
